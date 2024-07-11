@@ -1,7 +1,7 @@
 from docx2pdf import convert
 import os
 
-name_dir = 'MLCC_Certificates' # Replace the spaces with _
+name_dir = 'PUT HERE THE NAME OF THE SOURCE DIRECTORY' # Replace the spaces with _
 
 file_list=os.listdir(f'./{name_dir}')
 
