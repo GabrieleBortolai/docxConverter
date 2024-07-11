@@ -10,6 +10,7 @@ How to use:
 
 1) Place the directory containing all the DOCX files in the same location as converter.py
 2) Activate the enviroment
-3) Run the code using: python converter.py
+3) Update the name of the source directory in converter.py
+4) Run the code using: python converter.py
 
 The output of the algorithm is a folder containing all the files converted to PDF
